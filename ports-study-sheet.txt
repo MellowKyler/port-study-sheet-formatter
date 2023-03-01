@@ -1,0 +1,19 @@
+Ports Study List
+----------------
+21           -    FTP
+22           -    SSH
+23           -    TELNET
+25           -    SMTP
+53           -    DNS
+67/68        -    DHCP
+80           -    HTTP
+110          -    POP3
+137-139      -    NETBIOS/NETBT
+143          -    IMAP
+161/162      -    SNMP
+389          -    LDAP
+427          -    AFP/SLP
+443          -    HTTPS
+445          -    SMB/CIFS
+548          -    AFP
+3389         -    RDP
